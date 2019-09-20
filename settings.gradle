@@ -1,5 +1,0 @@
-include ':inferumCustomCalendar'
-include ':inferumLibAnyTextView'
-include ':inferumLibBonetCalendarView'
-include ':inferumLibSuperToolTip'
-include ':rofesPlus'
